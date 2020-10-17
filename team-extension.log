@@ -1,0 +1,46 @@
+2020-10-17T04:24:10.327Z - info:   [14132] *** FOLDER: c:\reactnative\screenshottogglerapp ***
+2020-10-17T04:24:10.328Z - info:   [14132] AzureReposVSCode/1.161.1 (VSCode 1.43.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-10-17T04:24:10.329Z - debug:  [14132] Looking for an External Context at c:\reactnative\screenshottogglerapp
+2020-10-17T04:24:10.329Z - debug:  [14132] No External Context at c:\reactnative\screenshottogglerapp
+2020-10-17T04:24:10.339Z - debug:  [14132] Looking for TFVC repository at c:\reactnative\screenshottogglerapp
+2020-10-17T04:24:10.339Z - debug:  [14132] TFVC Creating Tfvc object with localPath='undefined'
+2020-10-17T04:24:10.340Z - debug:  [14132] Using TFS proxy: 
+2020-10-17T04:24:10.341Z - debug:  [14132] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-10-17T04:24:10.342Z - debug:  [14132] TFVC Repository created with repositoryRootFolder='c:\reactnative\screenshottogglerapp'
+2020-10-17T04:24:10.343Z - debug:  [14132] TFVC Repository.CheckVersion
+2020-10-17T04:24:10.344Z - debug:  [14132] TFVC: tf add -noprompt -?
+2020-10-17T04:24:10.366Z - debug:  [14132] TFVC: spawned new process (duration: 20ms)
+2020-10-17T04:24:10.374Z - debug:  [14132] TFVC: spawned new process (duration: 7ms)
+2020-10-17T04:24:11.428Z - debug:  [14132] TFVC: add exit code: 0 (duration: 1083ms)
+2020-10-17T04:24:11.430Z - debug:  [14132] TFVC Minimum required version: 14.102.0
+2020-10-17T04:24:11.431Z - debug:  [14132] TFVC (TF.exe, TF.cmd) version: 15.129.27701.7
+2020-10-17T04:24:11.431Z - debug:  [14132] TFVC Repository.FindWorkspace with localPath='c:\reactnative\screenshottogglerapp'
+2020-10-17T04:24:11.432Z - debug:  [14132] TFVC: tf workfold -noprompt c:\reactnative\screenshottogglerapp
+2020-10-17T04:24:11.439Z - debug:  [14132] TFVC: spawned new process (duration: 6ms)
+2020-10-17T04:24:13.102Z - debug:  [14132] TFVC: workfold exit code: 100 (duration: 1670ms)
+2020-10-17T04:24:13.105Z - debug:  [14132] TFVC errors (via stderr): There is no working folder mapping for c:\reactnative\screenshottogglerapp.
+
+2020-10-17T04:24:13.106Z - error:  [14132] Execution of the TFVC command line failed unexpectedly.
+2020-10-17T08:40:20.048Z - info:   [0768] *** FOLDER: c:\reactnative\ScreenShotTogglerRAKBank ***
+2020-10-17T08:40:20.049Z - info:   [0768] AzureReposVSCode/1.161.1 (VSCode 1.43.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-10-17T08:40:20.050Z - debug:  [0768] Looking for an External Context at c:\reactnative\ScreenShotTogglerRAKBank
+2020-10-17T08:40:20.050Z - debug:  [0768] No External Context at c:\reactnative\ScreenShotTogglerRAKBank
+2020-10-17T08:40:20.052Z - debug:  [0768] Looking for TFVC repository at c:\reactnative\ScreenShotTogglerRAKBank
+2020-10-17T08:40:20.052Z - debug:  [0768] TFVC Creating Tfvc object with localPath='undefined'
+2020-10-17T08:40:20.054Z - debug:  [0768] Using TFS proxy: 
+2020-10-17T08:40:20.054Z - debug:  [0768] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-10-17T08:40:20.057Z - debug:  [0768] TFVC Repository created with repositoryRootFolder='c:\reactnative\ScreenShotTogglerRAKBank'
+2020-10-17T08:40:20.058Z - debug:  [0768] TFVC Repository.CheckVersion
+2020-10-17T08:40:20.059Z - debug:  [0768] TFVC: tf add -noprompt -?
+2020-10-17T08:40:20.078Z - debug:  [0768] TFVC: spawned new process (duration: 18ms)
+2020-10-17T08:40:20.086Z - debug:  [0768] TFVC: spawned new process (duration: 6ms)
+2020-10-17T08:40:21.264Z - debug:  [0768] TFVC: add exit code: 0 (duration: 1204ms)
+2020-10-17T08:40:21.266Z - debug:  [0768] TFVC Minimum required version: 14.102.0
+2020-10-17T08:40:21.266Z - debug:  [0768] TFVC (TF.exe, TF.cmd) version: 15.129.27701.7
+2020-10-17T08:40:21.267Z - debug:  [0768] TFVC Repository.FindWorkspace with localPath='c:\reactnative\ScreenShotTogglerRAKBank'
+2020-10-17T08:40:21.267Z - debug:  [0768] TFVC: tf workfold -noprompt c:\reactnative\ScreenShotTogglerRAKBank
+2020-10-17T08:40:21.274Z - debug:  [0768] TFVC: spawned new process (duration: 6ms)
+2020-10-17T08:40:22.424Z - debug:  [0768] TFVC: workfold exit code: 100 (duration: 1157ms)
+2020-10-17T08:40:22.426Z - debug:  [0768] TFVC errors (via stderr): There is no working folder mapping for c:\reactnative\ScreenShotTogglerRAKBank.
+
+2020-10-17T08:40:22.427Z - error:  [0768] Execution of the TFVC command line failed unexpectedly.

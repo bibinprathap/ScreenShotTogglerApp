@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Screenshot Toggler User is able to see Logo and Activate Button 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "flex": 1,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flex": 2,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "flex": 2,
+          "paddingVertical": 25,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": 8,
+            "height": 120,
+            "width": 120,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 2,
+        }
+      }
+    >
+      <Text>
+        Enable or disable ScreenShot
+      </Text>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "opacity": 1,
+          }
+        }
+        testID="submit-button"
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#08945C",
+                "borderRadius": 30,
+                "display": "flex",
+                "flexDirection": "row",
+                "height": 40,
+                "justifyContent": "center",
+                "marginVertical": 16,
+                "paddingLeft": 25,
+                "paddingRight": 25,
+                "width": 150,
+              },
+              Object {
+                "backgroundColor": "#00cc66",
+              },
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 18,
+                },
+                undefined,
+                Object {
+                  "fontFamily": "FontAwesome5Free-Solid",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {
+                  "fontWeight": "900",
+                },
+              ]
+            }
+          >
+            
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 12,
+                "paddingLeft": 20,
+              }
+            }
+          >
+            DE-ACTIVATE
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
